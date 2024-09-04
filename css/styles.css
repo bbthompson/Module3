@@ -1,0 +1,70 @@
+/* 
+    COLOR PALETTE 
+
+    #ECEBE4 Alabaster
+    #C6BEC2 French gray
+    #1B2021 Eerie black
+    #247BA0 Cerulean
+    #BEA078 Pale Orange
+    #787d84 Gray
+*/
+
+/* GLOBAL STYLES 
+------------------------------------*/
+
+body {
+    background: #ECEBE4;
+}
+
+/* links */
+a {
+    color: #247BA0;
+}
+
+a:hover {
+    color: #BEA078;
+    text-decoration: none;
+}
+
+.btn {
+    background: #247BA0;
+    color: #ECEBE4;
+    text-decoration: none;
+
+}
+
+/* HOME
+------------------------------------*/
+.home {
+    background: url(../images/norbert-levajsics-unsplash.jpg) no-repeat;
+    background-size: cover;
+}
+
+
+.home .content-wrapper {
+    background: rgb(255 255 255 / 0.9);
+}
+
+
+
+/* RESUME
+------------------------------------*/
+
+/* Profile
+------------------------------------*/
+
+/* Projects
+------------------------------------*/
+
+/* Work Experience
+------------------------------------*/
+
+/* Education
+------------------------------------*/
+
+/* FOOTER
+------------------------------------*/
+footer {
+    color: #1B2021;
+    background: #787d84;
+}
